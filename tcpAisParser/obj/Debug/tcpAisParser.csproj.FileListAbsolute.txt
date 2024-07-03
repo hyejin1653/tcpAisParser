@@ -1,0 +1,7 @@
+D:\Project\@@기타 프로젝트\tcpAisParser\tcpAisParser\bin\Debug\tcpAisParser.exe.config
+D:\Project\@@기타 프로젝트\tcpAisParser\tcpAisParser\bin\Debug\tcpAisParser.exe
+D:\Project\@@기타 프로젝트\tcpAisParser\tcpAisParser\bin\Debug\tcpAisParser.pdb
+D:\Project\@@기타 프로젝트\tcpAisParser\tcpAisParser\obj\Debug\tcpAisParser.csproj.AssemblyReference.cache
+D:\Project\@@기타 프로젝트\tcpAisParser\tcpAisParser\obj\Debug\tcpAisParser.csproj.CoreCompileInputs.cache
+D:\Project\@@기타 프로젝트\tcpAisParser\tcpAisParser\obj\Debug\tcpAisParser.exe
+D:\Project\@@기타 프로젝트\tcpAisParser\tcpAisParser\obj\Debug\tcpAisParser.pdb
